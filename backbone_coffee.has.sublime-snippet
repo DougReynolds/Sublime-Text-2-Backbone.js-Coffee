@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+${1:model}.has "${2:attribute}"
+]]></content>
+    <tabTrigger>has</tabTrigger>
+    <scope>source.coffee</scope>
+    <description>True if attribute is non-null or non-undefined</description>
+</snippet>

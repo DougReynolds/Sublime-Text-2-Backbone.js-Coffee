@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+new ${1:model}(
+	${2://...}
+)
+]]></content>
+    <tabTrigger>new</tabTrigger>
+    <scope>source.coffee</scope>
+    <description>Create an instance model</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+${1:model}.set "${2:attribute}", "${3:value}",
+	${4:silent}:${5:true}
+]]></content>
+    <tabTrigger>set</tabTrigger>
+    <scope>source.coffee</scope>
+    <description>Set the current value of a model attribute</description>
+</snippet>

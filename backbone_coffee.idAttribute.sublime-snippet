@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+idAttribute: "${1:id}"
+]]></content>
+    <tabTrigger>idAttrib</tabTrigger>
+    <scope>source.coffee</scope>
+    <description>Map a model id attribute</description>
+</snippet>

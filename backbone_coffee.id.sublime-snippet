@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+${1:model}.id
+]]></content>
+    <tabTrigger>id</tabTrigger>
+    <scope>source.coffee</scope>
+    <description>Special property of models</description>
+</snippet>

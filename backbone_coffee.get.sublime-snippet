@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+${1:model}.get "${2:attribute}"
+]]></content>
+    <tabTrigger>get</tabTrigger>
+    <scope>source.coffee</scope>
+    <description>Get the current value of an attribute from the model</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+${1:object}.trigger ${2:event}, "${3:args}"
+]]></content>
+    <tabTrigger>tr</tabTrigger>
+    <scope>source.coffee</scope>
+    <description>Trigger callbacks for the given event</description>
+</snippet>

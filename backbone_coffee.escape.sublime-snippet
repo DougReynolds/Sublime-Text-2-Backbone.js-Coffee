@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+${1:model}.escape "${2:attribute}"
+]]></content>
+    <tabTrigger>esc</tabTrigger>
+    <scope>source.coffee</scope>
+    <description>Returns HTML-escaped model attribute</description>
+</snippet>

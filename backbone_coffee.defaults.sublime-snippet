@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+defaults: {
+	${1:attribute}: "${2:value}"
+}
+]]></content>
+    <tabTrigger>def</tabTrigger>
+    <scope>source.coffee</scope>
+    <description>Specify default attributes for model</description>
+</snippet>

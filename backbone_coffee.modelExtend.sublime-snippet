@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+${1:var} = Backbone.Model.extend( ${2:initialize}: ->
+	${3://...}
+)
+]]></content>
+    <tabTrigger>bme</tabTrigger>
+    <scope>source.coffee</scope>
+    <description>Create a Model class</description>
+</snippet>

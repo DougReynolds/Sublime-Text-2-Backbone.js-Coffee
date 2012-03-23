@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+${1:object}.off "${2:type}"
+]]></content>
+    <tabTrigger>off</tabTrigger>
+    <scope>source.coffee</scope>
+    <description>Remove all previously-bound callbacks</description>
+</snippet>

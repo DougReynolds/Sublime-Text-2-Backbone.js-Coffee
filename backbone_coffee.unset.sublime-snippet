@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+${1:model}.unset "${2:attribute}",
+	${3:silent}:${4:true}
+]]></content>
+    <tabTrigger>unset</tabTrigger>
+    <scope>source.coffee</scope>
+    <description>Remove an attribute</description>
+</snippet>

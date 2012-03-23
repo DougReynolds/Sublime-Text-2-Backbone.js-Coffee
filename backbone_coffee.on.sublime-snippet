@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+${1:var}.on "${2:event}:${3:type}, ${4:callback}, ${5:context}"
+]]></content>
+    <tabTrigger>on</tabTrigger>
+    <scope>source.coffee</scope>
+    <description>Bind a callback function to an object</description>
+</snippet>

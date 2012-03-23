@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+${1:model}.clear
+	${2:silent}:${3:true}
+]]></content>
+    <tabTrigger>clear</tabTrigger>
+    <scope>source.coffee</scope>
+    <description>Removes all attributes from the model</description>
+</snippet>

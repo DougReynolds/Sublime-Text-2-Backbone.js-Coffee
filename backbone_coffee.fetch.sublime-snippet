@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+${1:collection}.fetch
+  succcess: ->
+    ${2:#...}
+
+  error: ->
+    ${3:#...}
+]]></content>
+    <tabTrigger>fetch</tabTrigger>
+    <scope>source.coffee</scope>
+    <description>Resets the model state from server</description>
+</snippet>
